@@ -2,6 +2,11 @@
 
 this project is an attempt at making an out of order superscalar CPU in Logisim Evolution
 
+### TODO
+
+forward register data when setting a line in the reservation station and data is not 
+on the CBD anymore
+
 # Instruction Set
 
 <table>
